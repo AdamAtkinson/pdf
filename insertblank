@@ -1,0 +1,2 @@
+for(j=this.numPages;j>0;j--)
+{this.insertPages({nPage:j-1,cPath:"blankpage.pdf",nstart:1})}
